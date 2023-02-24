@@ -1,0 +1,6 @@
+-Install spotipy,numpy and os module 
+https://spotipy.readthedocs.io/en/2.22.1/#installation
+-Register as a developer on spotify
+https://spotipy.readthedocs.io/en/2.22.1/#getting-started
+-Enter credentials (client_id and client_secret) in the cred.py-file
+-Run the CreateFavourites.py-file
